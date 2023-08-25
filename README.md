@@ -7,9 +7,8 @@ Stadia Maps provides geolocation data for companies. It provides raster and vect
 The Stadia Maps geocoding and autocomplete search APIs help you convert between places and geographic coordinates. Places include points of interest (ex: Times Square), businesses, street addresses, postal codes, and more (see our list of layers). We provide a number of APIs that help you convert between places and coordinates (latitude and longitude) in both directions.
 
 ## Web View Example
-<video width="320" height="240" controls>
-  <source src="https://github.com/kecci/opensource-maps-stadia/raw/main/videos/stadia-maps-maplibre.mp4" type="video/mp4">
-</video>
+
+https://github.com/kecci/opensource-maps-stadia/assets/25241073/7078bc26-73e0-4acd-b88b-5ec067c54600
 
 ## Code Example
 ```html
